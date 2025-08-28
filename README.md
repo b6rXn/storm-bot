@@ -35,4 +35,4 @@ StormBot is a powerful and versatile Discord bot designed to make server managem
 
 ## Support & Contact
 
-Need help or have questions? You can contact me on Discord at **@im.06** or join the support server: [StormBot Support](https://discord.gg/9VrJGanCcC)  
+Need help or have questions? You can contact me on Discord at **@im.06** or join the [Support Server](https://discord.gg/9VrJGanCcC)  
