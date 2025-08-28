@@ -2,7 +2,7 @@
 
 StormBot is a powerful and versatile Discord bot designed to make server management effortless and fun. With a full suite of commands, StormBot lets you handle **giveaways, roles, invites, messages, and more** with ease. Perfect for communities that want to automate tasks, reward members, and keep engagement high!
 
-## Features
+## Features 
 
 **Giveaways**  
 - `/gcreate` — Quickly create a giveaway  
